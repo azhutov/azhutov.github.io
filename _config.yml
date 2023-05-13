@@ -1,8 +1,8 @@
-title: Artem Zhutov
+# title: Artem Zhutov
 
-baseurl: "" # the subpath of your site, e.g. /blog
-domain: "azhutov.github.io"
-url: "https://azhutov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# domain: "azhutov.github.io"
+# url: "https://azhutov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 lsi: false
